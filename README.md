@@ -1,5 +1,9 @@
 # Spark Case Study
 
+## Goals:
+
+* To look into the activity on tweets in relation to the potentially sensitive flags as well as mentions of the candidates within the content of the tweets
+
 First a spark.sql query was ran to get information on potentially sensitive tweets:
 
 ![query](./images/kyle_query)
